@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+}
+
+p{
+  margin: 0;
+  font-family: 'Lalezar', cursive;
+}
+
+.header, .left-sidebar, .right-sidebar{
+  border: 2px;
+  border-style: solid;
+  border-color: darkslategray;
+  box-shadow: inset 0px 0px 30px rgba(47, 79, 79, 0.5);
+  z-index: 1;
+}
